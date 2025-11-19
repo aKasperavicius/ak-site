@@ -11,7 +11,7 @@ categories: ["News"]
 tags: ["security", "performance", "SEO"]
 contributors: ["Alexis Kasperavičius"]
 pinned: false
-homepage: false
+homepage: true
 ---
 
 This past weekend I spent Saturday with my Thursday-night orchestra (<a href="https://www.philharmoniamundimontreal.com/orchestre/" target="_blank" rel="noopener">Philharmonia Mundi</a>) playing at a cabin compound in the woods. It was decorated for a wedding, but we made the most of it and had a great time with plenty of food, beer, and Beethoven!
