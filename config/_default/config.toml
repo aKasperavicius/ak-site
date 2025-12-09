@@ -81,3 +81,8 @@ rel  = "sitemap"
     [[related.indices]]
     name = "date"
     weight = 10
+
+[services]
+
+  [services.googleAnalytics]
+    ID = "G-WJCQ23B8J9"
